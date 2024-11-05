@@ -1,6 +1,6 @@
 ;+
 ; $Id: scc_measure3.pro, 2024/04/24 sahade Exp $
-;    DOI 10.5281/zenodo.13951840
+;    DOI 10.5281/zenodo.13951841
 ; Project     :	STEREO - SECCHI
 ;
 ; Name        :	SCC_MEASURE3
